@@ -7,7 +7,7 @@ For the detailed introduction about the algorithm, please view 'An Introduction 
 For the replication using Matlab code, first run 'Generator_for_sets_and_subsets.mlx'.
 
 ## Code List
-Generator_for_sets_and_subsets.mlx Generate Episodes for Training
+Generator_for_sets_and_subsets.mlx Generate Episodes for Learning (Monte Carlo Method)
 
 update_after_set_converge_Figure_3.mlx Replication for Figure 3
 
