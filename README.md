@@ -2,9 +2,9 @@
 A replication of 'Sutton, R.S (1988) Learning to predict by the methods of temporal differences'
 
 ## Instruction
-For the detailed introduction about the algorithm, please view 'An Introduction of Temporal Difference Method.pdf'.
-
-For the replication using Matlab code, first run 'Generator_for_sets_and_subsets.mlx'.
+![TD-1](https://user-images.githubusercontent.com/112973740/220003835-3e508a00-0cc3-492b-b9dc-7140c28b62eb.png)
+![TD-2](https://user-images.githubusercontent.com/112973740/220003840-3f384a41-69bf-41bf-97b7-63c0cd39c443.png)
+![TD-3](https://user-images.githubusercontent.com/112973740/220003841-ad4fa95a-d00c-4fa6-acce-bdd1ef4734f7.png)
 
 ## Code List
 Generator_for_sets_and_subsets.mlx Generate Episodes for Learning (Monte Carlo Method)
